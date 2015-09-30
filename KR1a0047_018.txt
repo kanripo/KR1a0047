@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 童溪易傳
-#+DATE: 2015-09-23 09:34:36
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 21:55:21.174310
+#+PROPERTY: ID KR1a0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1a0047_WYG_018-1a>¶
 欽定四庫全書¶
 　童溪易傳卷十八　　　　宋　王宗傳　撰¶
@@ -326,4 +328,3 @@
 　也此又申解悖之道也¶
 　¶
 　童溪易傳卷十八¶
-

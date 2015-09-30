@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 童溪易傳
-#+DATE: 2015-09-23 09:34:36
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 21:55:21.368893
+#+PROPERTY: ID KR1a0047
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九 
 <pb:KR1a0047_WYG_029-1a>¶
 欽定四庫全書¶
 　童溪易傳卷二十九　　　宋　王宗傳　撰¶
@@ -452,4 +454,3 @@
 　夫子不能發而明之豈非隱乎嗚呼易之爲易也如¶
 　此此其所以能明得失之報以示人也¶
 　童溪易傳卷二十九¶
-
